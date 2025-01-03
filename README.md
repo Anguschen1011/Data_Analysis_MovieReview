@@ -5,6 +5,14 @@
 
 Conduct data analysis on the IMDB Dataset of 50K Movie Reviews.  
 
+Normal method  
+```
+movie_review.ipynb
+```
+Using BERT for tokenizer  
+```
+movie_review_BERT_tokenizer.ipynb
+```
 
 Dataset Link : [Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data)
 
